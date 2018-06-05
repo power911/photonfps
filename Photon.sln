@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon", "Photon.csproj", "{131C10CE-6442-52A3-FCA1-A4DC05517B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon.Plugins", "Photon.Plugins.csproj", "{B89B1D49-3C44-EF53-0B74-AA755CD4662B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon.Editor", "Photon.Editor.csproj", "{EDFD9DF1-6CF3-5A8A-A392-63645AD01817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131C10CE-6442-52A3-FCA1-A4DC05517B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131C10CE-6442-52A3-FCA1-A4DC05517B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131C10CE-6442-52A3-FCA1-A4DC05517B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131C10CE-6442-52A3-FCA1-A4DC05517B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B89B1D49-3C44-EF53-0B74-AA755CD4662B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89B1D49-3C44-EF53-0B74-AA755CD4662B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89B1D49-3C44-EF53-0B74-AA755CD4662B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89B1D49-3C44-EF53-0B74-AA755CD4662B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFD9DF1-6CF3-5A8A-A392-63645AD01817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFD9DF1-6CF3-5A8A-A392-63645AD01817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFD9DF1-6CF3-5A8A-A392-63645AD01817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFD9DF1-6CF3-5A8A-A392-63645AD01817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
