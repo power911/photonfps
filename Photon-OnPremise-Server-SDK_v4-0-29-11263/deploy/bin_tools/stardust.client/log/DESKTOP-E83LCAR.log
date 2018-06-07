@@ -1,0 +1,45 @@
+2018-06-07 15:11:28,733 [1] INFO  Photon.StarDust.Client.Program - Starting 5 games with 3 players
+2018-06-07 15:11:28,942 [9] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:29,387 [5] INFO  Photon.StarDust.Client.Program - [14144] Started game DESKTOP-E83LCAR(14144)1 with 3 clients
+2018-06-07 15:11:29,623 [4] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:29,874 [5] INFO  Photon.StarDust.Client.Program - [14144] Started game DESKTOP-E83LCAR(14144)2 with 3 clients
+2018-06-07 15:11:30,172 [4] DEBUG Photon.StarDust.Client.Program - peers: 5, r-ev: 4.529055, ur-ev: 0, r-op: 9.812952, ur-op: 0, res: 6.793568, r-rtt: 0, ur-rtt: 0, rtt: 6, var: 29, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:30,203 [4] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
+2018-06-07 15:11:30,207 [4] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:30,356 [5] INFO  Photon.StarDust.Client.Program - [14144] Started game DESKTOP-E83LCAR(14144)3 with 3 clients
+2018-06-07 15:11:30,837 [5] INFO  Photon.StarDust.Client.Program - [14144] Started game DESKTOP-E83LCAR(14144)4 with 3 clients
+2018-06-07 15:11:31,124 [5] INFO  Photon.StarDust.Client.Program - [14144] Started game DESKTOP-E83LCAR(14144)5 with 3 clients
+2018-06-07 15:11:31,124 [5] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
+2018-06-07 15:11:31,126 [5] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:31,126 [5] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:31,167 [5] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 17.08531, ur-ev: 0, r-op: 22.1104, ur-op: 0, res: 12.06022, r-rtt: 222, ur-rtt: 0, rtt: 5.666667, var: 28.66667, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:31,695 [42] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:31,710 [42] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:31,728 [42] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
+2018-06-07 15:11:31,730 [42] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:31,733 [42] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:32,196 [5] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 21.3866, ur-ev: 0, r-op: 33.05201, ur-op: 0, res: 23.33083, r-rtt: 266.9167, ur-rtt: 0, rtt: 5.444445, var: 29.33333, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:32,228 [4] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:32,229 [5] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:32,234 [4] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.107:5056
+2018-06-07 15:11:33,211 [5] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 153.5789, ur-ev: 0, r-op: 110.2618, ur-op: 0, res: 8.860322, r-rtt: 40.71141, ur-rtt: 0, rtt: 7.75, var: 14, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:34,226 [55] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 177.3688, ur-ev: 0, r-op: 106.4213, ur-op: 0, res: 0, r-rtt: 40.8, ur-rtt: 0, rtt: 9, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:35,241 [55] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 159.5395, ur-ev: 0, r-op: 106.3596, ur-op: 0, res: 0, r-rtt: 37.41975, ur-rtt: 0, rtt: 9, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:36,244 [9] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 161.643, ur-ev: 0, r-op: 118.7378, ur-op: 0, res: 0, r-rtt: 37.53086, ur-rtt: 0, rtt: 9, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:37,244 [9] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 161.9696, ur-ev: 0, r-op: 108.9796, ur-op: 0, res: 0, r-rtt: 40.81482, ur-rtt: 0, rtt: 9, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:38,257 [55] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 177.6016, ur-ev: 0, r-op: 106.5609, ur-op: 0, res: 0, r-rtt: 39.83333, ur-rtt: 0, rtt: 9.333333, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:39,259 [5] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 161.6871, ur-ev: 0, r-op: 107.7914, ur-op: 0, res: 0, r-rtt: 42.60494, ur-rtt: 0, rtt: 9.416667, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:40,260 [42] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 161.8976, ur-ev: 0, r-op: 107.9317, ur-op: 0, res: 0, r-rtt: 38.24074, ur-rtt: 0, rtt: 9.416667, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:41,260 [5] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 161.9652, ur-ev: 0, r-op: 107.9768, ur-op: 0, res: 0, r-rtt: 41.83951, ur-rtt: 0, rtt: 9.25, var: 7.083333, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:42,260 [42] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 161.9949, ur-ev: 0, r-op: 119.9962, ur-op: 0, res: 0, r-rtt: 37.74691, ur-rtt: 0, rtt: 9.25, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:43,260 [42] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 161.9903, ur-ev: 0, r-op: 107.9935, ur-op: 0, res: 0, r-rtt: 38.69753, ur-rtt: 0, rtt: 9.25, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:44,260 [5] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 180.117, ur-ev: 0, r-op: 108.0702, ur-op: 0, res: 0, r-rtt: 37.21667, ur-rtt: 0, rtt: 9.25, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:45,274 [5] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 159.6802, ur-ev: 0, r-op: 106.4535, ur-op: 0, res: 0, r-rtt: 39.67284, ur-rtt: 0, rtt: 9.25, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:46,275 [9] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 161.9054, ur-ev: 0, r-op: 107.937, ur-op: 0, res: 0, r-rtt: 41.11728, ur-rtt: 0, rtt: 9.25, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:47,276 [42] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 161.7816, ur-ev: 0, r-op: 107.8544, ur-op: 0, res: 0, r-rtt: 37.51234, ur-rtt: 0, rtt: 9.25, var: 7, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2018-06-07 15:11:47,831 [1] INFO  Photon.StarDust.Client.Program - [14144] Shutdown: Stopped game DESKTOP-E83LCAR(14144)1
+2018-06-07 15:11:47,835 [1] INFO  Photon.StarDust.Client.Program - [14144] Shutdown: Stopped game DESKTOP-E83LCAR(14144)2
+2018-06-07 15:11:47,840 [1] INFO  Photon.StarDust.Client.Program - [14144] Shutdown: Stopped game DESKTOP-E83LCAR(14144)3
+2018-06-07 15:11:47,842 [1] INFO  Photon.StarDust.Client.Program - [14144] Shutdown: Stopped game DESKTOP-E83LCAR(14144)4
+2018-06-07 15:11:47,846 [1] INFO  Photon.StarDust.Client.Program - [14144] Shutdown: Stopped game DESKTOP-E83LCAR(14144)5
+2018-06-07 15:11:47,860 [1] INFO  Photon.StarDust.Client.Program - [14144] Stopped
